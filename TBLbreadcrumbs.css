@@ -90,7 +90,7 @@ p.rightpquote {float: right; width: 8.0em; background: #D6C299; padding:1.0em; m
 /* "pquote" is for "pull quote" or the call outs.*/ 
 
 
-p.display-field {display: inline-block; padding-left: 50px; text-indent: -50px;}
+p.display-field {display: inline-block; padding-left: 50px; text-indent: -50px; line-height: 2.5em;}
 
 /* This code is used for the hanging indents in the Work Cited page. */
 
