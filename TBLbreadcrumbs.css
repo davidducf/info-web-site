@@ -81,6 +81,8 @@ body {background-color:#b0c4de;}
  
 p {font-family: Calibri, Optima, Arial, sans-serif; text-indent: 25px; margin: 5px 30px 0px 0px; font-size: 1.0em;}
 
+p.glossary { text-indent: 0px; margin: 10px; }
+
 p.block {margin-left: 50px; margin-right: 20px; text-indent: 0px;}
 
 p.leftpquote {float: left; width: 8.0em; background: #D6C299; padding:1.0em; margin: 0.4em 0.4em 0.0em 0.0em ; font-size: 1.1em;}
@@ -95,9 +97,9 @@ p.display-field {display: inline-block; padding-left: 50px; text-indent: -50px; 
 /* This code is used for the hanging indents in the Work Cited page. */
 
 
-.imageleftcaption {font-size:80%; text-align:center; float:left; margin: 0px 10px 0px 0px; position:relative; top:5px; font-family: Calibri, Optima, Arial, sans-serif;}
+.imageleftcaption {font-size:80%; text-align:center; float:left; margin: 10px; position:relative; top:5px; font-family: Calibri, Optima, Arial, sans-serif; border: 2px solid black;}
 
-.imagerightcaption {font-size:80%; text-align:center; float:right; margin: 0px 0px 0px 0px; position:relative; top:5px; font-family: Calibri, Optima, Arial, sans-serif;}
+.imagerightcaption {font-size:80%; text-align:center; float:right; margin: 5px; padding: 5px; position:relative; top:5px; font-family: Calibri, Optima, Arial, sans-serif; border: 2px solid black;}
 
 
 h1,h2,h3,h4,h5,h6 {font-family: Verdana, Arial, Helvetica, sans-serif;}
@@ -112,13 +114,13 @@ h6 {font-size:0.8em; margin-bottom: 10px;
 }
 
 
-a:link {text-decoration: none; color: #3300ff; font-size: 0.9em; font-family: Verdana, Arial, Helvetica, sans-serif;}
+a:link {text-decoration: none; color: #3300ff; font-size: 1.0em; font-family: Verdana, Arial, Helvetica, sans-serif;}
 
-a:visited {text-decoration: none; color: #3399ff; font-size: 0.9em; font-family: Verdana, Arial, Helvetica, sans-serif;}
+a:visited {text-decoration: none; color: #3399ff; font-size: 1.0em; font-family: Verdana, Arial, Helvetica, sans-serif;}
 
-a:hover {text-decoration: underline; color: #ee99bb; font-size: 0.9em; font-family: Verdana, Arial, Helvetica, sans-serif;}
+a:hover {text-decoration: underline; color: #ee99bb; font-size: 1.0em; font-family: Verdana, Arial, Helvetica, sans-serif;}
 
-a:active {text-decoration: underline; color:#000000; font-size: 0.9em; font-family: Verdana, Arial, Helvetica, sans-serif;}
+a:active {text-decoration: underline; color:#000000; font-size: 1.0em; font-family: Verdana, Arial, Helvetica, sans-serif;}
 
 
 .italic {font-style:italic;}
